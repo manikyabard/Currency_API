@@ -10,7 +10,8 @@
 #### Where to get APIs for different task?
 	For the purpose of this project, or any other, APIs can be found on rapidapi.com which is one of the best sites for providing APIs for a large number of use cases.
 #### I have selected my API. How do I use it in my project?
-	After selecting your API, 
+	After selecting your API(from rapidapi.com), copy the request snippet for the desired environment and use it directly in your program.
+	If the API requires a subscription, register for it and get your access key before using it.
 #### The Libraries used in this project are _requests_ and _json_.
 #### requests:
 	This has been used to get the data from an API call using the get function.
